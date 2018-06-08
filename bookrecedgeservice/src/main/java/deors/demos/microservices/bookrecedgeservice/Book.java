@@ -1,3 +1,5 @@
+package deors.demos.microservices.bookrecedgeservice;
+
 public class Book {
 
     private Long id;
